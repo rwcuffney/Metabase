@@ -1,0 +1,39 @@
+lexisnexisapi Version Notes:
+
+
+2.9.2023:
+metabase.py:
+changed author to: __author__ = "Robert Cuffney & Ozgur Aycan, CS Integration Consultants @ LexisNexis"
+changed function:
+	def create_file(self) to 
+	def create_file(self,file='articles.json')
+this allows users the ability to choose a file name for the output.
+
+
+New Version:
+Added the response attributes to the class, so a new class, with data
+has the following attributes:
+['parameters', 
+'_content_consumed', 
+'_next', 
+'status_code', 
+'headers', 
+'raw', 
+'url', 
+'encoding', 
+'history', 
+'reason', 
+'cookies', 
+'elapsed', 
+'request', 
+'connection', 
+'status', 
+'totalResults', 
+'articles']
+
+Streamline created as a seperate class (vs. being a part of the search class)
+
+7.18.2023: VER 2.0.47 - 
+includes an updated readme file
+
+

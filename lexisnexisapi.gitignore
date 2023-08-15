@@ -1,9 +1,0 @@
-#ignore these directories:
-ignore/*
-dist/*
-ipynb_checkpoints/*
-
-#ignore these file ext
-*.ipynb
-*.DS_Store
-*.gitignore

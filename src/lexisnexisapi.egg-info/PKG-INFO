@@ -1,16 +1,12 @@
 Metadata-Version: 2.1
 Name: lexisnexisapi
-Version: 3.0.3
-Summary: A module to support the lexisnexis metabase search api
-Home-page: 
+Version: 3.0.3.3
+Summary: a module to support lexisnexis api(s)
+Home-page: https://pypi.org/project/lexisnexisapi/
 Author: Robert Cuffney
-Author-email: Robert Cuffney <robert.cuffney@lexisnexis.com>, Ozgur Aycan <ozgur.aycan@lexisnexis.co.uk>
+Author-email: robert.cuffney@lexisnexis.com
 License: MIT
-Keywords: example project
-Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
-Classifier: Operating System :: OS Independent
-Requires-Python: >=3.7
+Keywords: metabase webservices lexisnexis
 Description-Content-Type: text/markdown
 License-File: LICENSE.txt
 
